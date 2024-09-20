@@ -1,0 +1,7 @@
+[
+  "commands":{
+    "write":"console.log()",
+    "add":"+",
+    "subtract":"-"
+  }
+]
